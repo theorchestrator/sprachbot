@@ -1,0 +1,21 @@
+Maus {f}
+Haus {n}
+Computer {m}
+Rechner {m}
+Spieler {m}
+Spielerin{f}
+Auto {n}
+Messer {n}
+Gabel {f}
+Löffel {m}
+Brot {n}
+Lastkraftwagen {m}
+Hosse {f}
+Bier {n}
+Fenster {n}
+Tür {f}
+Kalender {m}
+Stoff {m}
+Schiebe {f}
+Blüme {f}
+Höhle {f}

@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1501286388140
+Bundle-ManifestVersion: 2
+Bundle-Name: SprachBot
+Bundle-SymbolicName: SprachBot
+Bundle-Version: 1.0.0.201707282359
+Created-By: 1.8.0_141 (Oracle Corporation)
+Import-Package: org.deeplearning4j.eval,org.deeplearning4j.nn.api,org.
+ deeplearning4j.nn.conf,org.deeplearning4j.nn.conf.layers,org.deeplear
+ ning4j.nn.multilayer,org.deeplearning4j.nn.weights,org.nd4j.linalg.ac
+ tivations,org.nd4j.linalg.api.ndarray,org.nd4j.linalg.dataset,org.nd4
+ j.linalg.dataset.api,org.nd4j.linalg.dataset.api.iterator,org.nd4j.li
+ nalg.factory,org.nd4j.linalg.lossfunctions
+Private-Package: teamaf.sprachbot
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-3.1.0.201512181341
